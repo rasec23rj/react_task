@@ -15,3 +15,33 @@ code {
 .button-form{
   padding-inline: inherit;
 }
+.ulCategorias{
+  border: 0px solid !important;
+  background-color: gray;
+  color: white;
+}
+
+.list-group-item{
+  border: 0px solid !important;
+ 
+}
+.spanCat{
+  max-width: 100px;
+  min-width: 100px;
+  width: 150px;
+  background-color: gray;
+  color: white;
+  border-radius: 10px;
+  margin-left: 18px;
+  margin-right: 37px;
+}
+
+.labelCat{
+  margin-left: 8px;
+  margin-right: 8px;
+  
+}
+.inputCat{
+  width: 240px;
+  margin-left: -32px;
+}
